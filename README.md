@@ -24,24 +24,12 @@ This is a fork of [aitextgen](https://github.com/minimaxir/aitextgen) notebooks 
 This repository makes a number of demo notebooks available for use in Paperspace Gradient:
 |Notebook|Run on Gradient Link|
 |---|---|
-|Train a GPT-2 model + tokenizer from scratch (GPU)|<a href="https://console.paperspace.com/github/gradient-ai/aitextgen/blob/master/aitextgen_—%C2%A0Train_a_Custom_GPT_2_Model_%2B_Tokenizer.ipynb">
-        <img src="https://assets.paperspace.io/img/gradient-badge.svg" alt="Run on Gradient"/>
-    </a>|
-|Finetune OpenAI's 124M GPT-2 model (or GPT Neo) on your own dataset (GPU)|<a href="https://console.paperspace.com/github/gradient-ai/aitextgen/blob/master/aitextgen_—_Train_a_GPT_2_(or_GPT_Neo)_Text_Generating_Model_w_GPU.ipynb">
-        <img src="https://assets.paperspace.io/img/gradient-badge.svg" alt="Run on Gradient"/>
-    </a>|
-|aitextgen Generation Hello World|<a href="https://console.paperspace.com/github/gradient-ai/aitextgen/blob/master/generation_hello_world.ipynb">
-        <img src="https://assets.paperspace.io/img/gradient-badge.svg" alt="Run on Gradient"/>
-    </a>|
-|aitextgen Training Hello World|<a href="https://console.paperspace.com/github/gradient-ai/aitextgen/blob/master/training_hello_world.ipynb">
-        <img src="https://assets.paperspace.io/img/gradient-badge.svg" alt="Run on Gradient"/>
-    </a>|
-|Hacker News aitextgen|<a href="https://console.paperspace.com/github/gradient-ai/aitextgen/blob/master/hacker_news_demo.ipynb">
-        <img src="https://assets.paperspace.io/img/gradient-badge.svg" alt="Run on Gradient"/>
-    </a>|
-|Reddit aitextgen|<a href="https://console.paperspace.com/github/gradient-ai/aitextgen/blob/master/reddit_demo.ipynb">
-        <img src="https://assets.paperspace.io/img/gradient-badge.svg" alt="Run on Gradient"/>
-    </a>|
+|Train a GPT-2 model + tokenizer from scratch (GPU)|[https://assets.paperspace.io/img/gradient-badge.svg](https://console.paperspace.com/github/gradient-ai/aitextgen/blob/master/aitextgen_—%C2%A0Train_a_Custom_GPT_2_Model_%2B_Tokenizer.ipynb)|
+|Finetune OpenAI's 124M GPT-2 model (or GPT Neo) on your own dataset (GPU)|[https://assets.paperspace.io/img/gradient-badge.svg](https://console.paperspace.com/github/gradient-ai/aitextgen/blob/master/aitextgen_—_Train_a_GPT_2_(or_GPT_Neo)_Text_Generating_Model_w_GPU.ipynb)|
+|aitextgen Generation Hello World|[https://assets.paperspace.io/img/gradient-badge.svg](https://console.paperspace.com/github/gradient-ai/aitextgen/blob/master/generation_hello_world.ipynb)|
+|aitextgen Training Hello World|[https://assets.paperspace.io/img/gradient-badge.svg](https://console.paperspace.com/github/gradient-ai/aitextgen/blob/master/training_hello_world.ipynb)|
+|Hacker News aitextgen|[https://assets.paperspace.io/img/gradient-badge.svg](https://console.paperspace.com/github/gradient-ai/aitextgen/blob/master/hacker_news_demo.ipynb)|
+|Reddit aitextgen|[https://assets.paperspace.io/img/gradient-badge.svg](https://console.paperspace.com/github/gradient-ai/aitextgen/blob/master/reddit_demo.ipynb)|
 
 
 ## Description
